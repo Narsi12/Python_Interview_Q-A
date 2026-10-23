@@ -1,0 +1,29 @@
+Name: Narsimha ch
+Age: 26
+City: Hyderabad
+Profession: Python Developer
+Experience: 4 years
+
+Skills:
+- Python
+- FastAPI
+- Django
+- SQL
+- AWS
+
+Hobbies:
+- Reading books
+- Playing cricket
+- Learning new technologies
+
+Projects:
+1. Employee Management System
+2. Online Shopping Application
+3. Weather Forecast Application
+
+Salary: 800000
+Department: IT
+Status: Active
+
+Favorite Language: Python
+Favorite Database: PostgreSQL
